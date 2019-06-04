@@ -1,0 +1,19 @@
+current directory: /Users/zizi/Rails_tutorial/twitter/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190605-17341-418d71.rb extconf.rb
+creating Makefile
+
+current directory: /Users/zizi/Rails_tutorial/twitter/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/zizi/Rails_tutorial/twitter/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/zizi/Rails_tutorial/twitter/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190605-17341-pbx7ej/byebug
